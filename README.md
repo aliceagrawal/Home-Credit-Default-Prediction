@@ -8,7 +8,7 @@
 
 
 ## Overview
-![img](Images/5Cs)
+![img](Images/5Cs.png)
 
 The model built in this project is used to predict the default of house credit.
 
@@ -36,8 +36,8 @@ I also employed SMOTE on a few hypertuned parameters to help with the class imba
 ## Results
 
 After the iterative process, our final model is Random Forest with parameter tuning and the result is:
-<br />
-[Results:](Images/Results.png)
+<br /><br />
+![Results:](Images/Results.png)
 
 ## Conclusion
 Three recommendations:
